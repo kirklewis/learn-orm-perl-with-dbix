@@ -2,7 +2,7 @@ use strict;
 use warnings;
 
 use Test::More;
-use App::Schema;
+
 
 use_ok('App::Schema');
 
