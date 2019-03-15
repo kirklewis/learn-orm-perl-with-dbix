@@ -10,7 +10,7 @@ A two part article briefly covering [ORM](https://en.wikipedia.org/wiki/Object-r
 
 ---
 
-Copyright (c) 2016 - 2018 Kirk Lewis
+Copyright (c) 2016 - 2019 Kirk Lewis
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
